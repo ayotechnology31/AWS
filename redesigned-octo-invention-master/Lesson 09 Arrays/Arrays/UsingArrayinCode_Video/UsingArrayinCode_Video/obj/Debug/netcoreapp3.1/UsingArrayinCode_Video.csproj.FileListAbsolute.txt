@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\bin\Debug\netcoreapp3.1\UsingArrayinCode_Video.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\bin\Debug\netcoreapp3.1\UsingArrayinCode_Video.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\bin\Debug\netcoreapp3.1\UsingArrayinCode_Video.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\bin\Debug\netcoreapp3.1\UsingArrayinCode_Video.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\bin\Debug\netcoreapp3.1\UsingArrayinCode_Video.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\bin\Debug\netcoreapp3.1\UsingArrayinCode_Video.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\obj\Debug\netcoreapp3.1\UsingArrayinCode_Video.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\obj\Debug\netcoreapp3.1\UsingArrayinCode_Video.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\obj\Debug\netcoreapp3.1\UsingArrayinCode_Video.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\obj\Debug\netcoreapp3.1\UsingArrayinCode_Video.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 09 Arrays\Arrays\UsingArrayinCode_Video\UsingArrayinCode_Video\obj\Debug\netcoreapp3.1\UsingArrayinCode_Video.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\obj\Debug\netcoreapp3.1\AllAboutMe.csprojAssemblyReference.cache
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\obj\Debug\netcoreapp3.1\AllAboutMe.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\obj\Debug\netcoreapp3.1\AllAboutMe.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\bin\Debug\netcoreapp3.1\AllAboutMe.exe
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\bin\Debug\netcoreapp3.1\AllAboutMe.deps.json
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\bin\Debug\netcoreapp3.1\AllAboutMe.runtimeconfig.json
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\bin\Debug\netcoreapp3.1\AllAboutMe.runtimeconfig.dev.json
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\bin\Debug\netcoreapp3.1\AllAboutMe.dll
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\bin\Debug\netcoreapp3.1\AllAboutMe.pdb
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\obj\Debug\netcoreapp3.1\AllAboutMe.dll
+C:\Users\Cookie\source\repos\AllAboutMe\AllAboutMe\obj\Debug\netcoreapp3.1\AllAboutMe.pdb

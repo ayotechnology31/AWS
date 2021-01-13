@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\bin\Debug\netcoreapp3.1\Opinionator.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\bin\Debug\netcoreapp3.1\Opinionator.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\bin\Debug\netcoreapp3.1\Opinionator.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\bin\Debug\netcoreapp3.1\Opinionator.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\bin\Debug\netcoreapp3.1\Opinionator.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\bin\Debug\netcoreapp3.1\Opinionator.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\obj\Debug\netcoreapp3.1\Opinionator.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\obj\Debug\netcoreapp3.1\Opinionator.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\obj\Debug\netcoreapp3.1\Opinionator.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\obj\Debug\netcoreapp3.1\Opinionator.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\Opinionator\Opinionator\obj\Debug\netcoreapp3.1\Opinionator.pdb

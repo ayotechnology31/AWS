@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\bin\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\bin\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\bin\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\bin\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\bin\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\bin\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\obj\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\obj\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\obj\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\obj\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\ForAndTwentyBlackbirds\ForAndTwentyBlackbirds\obj\Debug\netcoreapp3.1\ForAndTwentyBlackbirds.pdb

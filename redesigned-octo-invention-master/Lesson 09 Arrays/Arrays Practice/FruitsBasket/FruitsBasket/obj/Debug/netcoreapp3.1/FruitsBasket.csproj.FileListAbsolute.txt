@@ -1,0 +1,11 @@
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\bin\Debug\netcoreapp3.1\FruitsBasket.exe
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\bin\Debug\netcoreapp3.1\FruitsBasket.deps.json
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\bin\Debug\netcoreapp3.1\FruitsBasket.runtimeconfig.json
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\bin\Debug\netcoreapp3.1\FruitsBasket.runtimeconfig.dev.json
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\bin\Debug\netcoreapp3.1\FruitsBasket.dll
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\bin\Debug\netcoreapp3.1\FruitsBasket.pdb
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\obj\Debug\netcoreapp3.1\FruitsBasket.csprojAssemblyReference.cache
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\obj\Debug\netcoreapp3.1\FruitsBasket.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\obj\Debug\netcoreapp3.1\FruitsBasket.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\obj\Debug\netcoreapp3.1\FruitsBasket.dll
+C:\Users\Cookie\source\repos\FruitsBasket\FruitsBasket\obj\Debug\netcoreapp3.1\FruitsBasket.pdb

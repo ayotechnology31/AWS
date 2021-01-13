@@ -1,0 +1,13 @@
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\obj\Debug\netstandard2.0\GolfClubManager.Data.csprojAssemblyReference.cache
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\obj\Debug\netstandard2.0\GolfClubManager.Data.AssemblyInfoInputs.cache
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\obj\Debug\netstandard2.0\GolfClubManager.Data.AssemblyInfo.cs
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\bin\Debug\netstandard2.0\GolfClubManager.Data.deps.json
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\bin\Debug\netstandard2.0\GolfClubManager.Data.dll
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\bin\Debug\netstandard2.0\GolfClubManager.Data.pdb
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\bin\Debug\netstandard2.0\GolfClubManager.Models.dll
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\bin\Debug\netstandard2.0\GolfClubManager.View.dll
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\bin\Debug\netstandard2.0\GolfClubManager.Models.pdb
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\bin\Debug\netstandard2.0\GolfClubManager.View.pdb
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\obj\Debug\netstandard2.0\GolfClubManager.Data.csproj.CopyComplete
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\obj\Debug\netstandard2.0\GolfClubManager.Data.dll
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\ColfClubManager.Data\obj\Debug\netstandard2.0\GolfClubManager.Data.pdb

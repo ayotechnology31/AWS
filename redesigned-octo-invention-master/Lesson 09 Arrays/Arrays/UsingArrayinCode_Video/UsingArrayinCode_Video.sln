@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingArrayinCode_Video", "UsingArrayinCode_Video\UsingArrayinCode_Video.csproj", "{A141742A-DE97-44A6-9440-D146E0F3F81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A141742A-DE97-44A6-9440-D146E0F3F81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A141742A-DE97-44A6-9440-D146E0F3F81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A141742A-DE97-44A6-9440-D146E0F3F81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A141742A-DE97-44A6-9440-D146E0F3F81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87653CFE-F69D-4896-B40F-5C1FF8FBE439}
+	EndGlobalSection
+EndGlobal

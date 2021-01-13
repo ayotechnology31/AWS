@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\bin\Debug\netcoreapp3.1\DontForgetToStoreIt.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\bin\Debug\netcoreapp3.1\DontForgetToStoreIt.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\bin\Debug\netcoreapp3.1\DontForgetToStoreIt.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\bin\Debug\netcoreapp3.1\DontForgetToStoreIt.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\bin\Debug\netcoreapp3.1\DontForgetToStoreIt.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\bin\Debug\netcoreapp3.1\DontForgetToStoreIt.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\obj\Debug\netcoreapp3.1\DontForgetToStoreIt.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\obj\Debug\netcoreapp3.1\DontForgetToStoreIt.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\obj\Debug\netcoreapp3.1\DontForgetToStoreIt.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\obj\Debug\netcoreapp3.1\DontForgetToStoreIt.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\DontForgetToStoreIt\DontForgetToStoreIt\obj\Debug\netcoreapp3.1\DontForgetToStoreIt.pdb

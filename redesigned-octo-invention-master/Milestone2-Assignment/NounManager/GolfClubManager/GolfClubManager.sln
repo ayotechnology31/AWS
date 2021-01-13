@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfClubManager", "GolfClubManager\GolfClubManager.csproj", "{1C2F78DE-D132-41AB-AD6C-7F816B64BEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfClubManager.Controllers", "GolfClubManager.Controllers\GolfClubManager.Controllers.csproj", "{74D8E2E4-C8A3-4A6F-A734-29C8E2BE45C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfClubManager.Models", "GolfClubManager.Models\GolfClubManager.Models.csproj", "{C1A39A8A-B988-4D60-8D90-317658A30B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfClubManager.Data", "ColfClubManager.Data\GolfClubManager.Data.csproj", "{E5FDADB0-B5A9-4E67-B031-EA57734BFD83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfClubManager.View", "GolfClubManager.View\GolfClubManager.View.csproj", "{4EB9309F-6EDC-46C6-9775-8C2475102E39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2F78DE-D132-41AB-AD6C-7F816B64BEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2F78DE-D132-41AB-AD6C-7F816B64BEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2F78DE-D132-41AB-AD6C-7F816B64BEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2F78DE-D132-41AB-AD6C-7F816B64BEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D8E2E4-C8A3-4A6F-A734-29C8E2BE45C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D8E2E4-C8A3-4A6F-A734-29C8E2BE45C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D8E2E4-C8A3-4A6F-A734-29C8E2BE45C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D8E2E4-C8A3-4A6F-A734-29C8E2BE45C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A39A8A-B988-4D60-8D90-317658A30B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A39A8A-B988-4D60-8D90-317658A30B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A39A8A-B988-4D60-8D90-317658A30B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A39A8A-B988-4D60-8D90-317658A30B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FDADB0-B5A9-4E67-B031-EA57734BFD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FDADB0-B5A9-4E67-B031-EA57734BFD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FDADB0-B5A9-4E67-B031-EA57734BFD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FDADB0-B5A9-4E67-B031-EA57734BFD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB9309F-6EDC-46C6-9775-8C2475102E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB9309F-6EDC-46C6-9775-8C2475102E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB9309F-6EDC-46C6-9775-8C2475102E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB9309F-6EDC-46C6-9775-8C2475102E39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD20248-F08C-4B47-B38A-B3265CA448F5}
+	EndGlobalSection
+EndGlobal

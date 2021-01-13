@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.pdb

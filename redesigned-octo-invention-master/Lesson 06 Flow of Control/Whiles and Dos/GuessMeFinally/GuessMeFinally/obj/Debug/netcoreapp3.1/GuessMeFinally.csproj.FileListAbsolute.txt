@@ -1,0 +1,22 @@
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.exe
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.deps.json
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.runtimeconfig.json
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.runtimeconfig.dev.json
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.dll
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.pdb
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.csprojAssemblyReference.cache
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.dll
+C:\Users\Cookie\source\repos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.pdb

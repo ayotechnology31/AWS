@@ -1,0 +1,7 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\FizzBuzz\Start\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\FizzBuzz\obj\Debug\FizzBuzz.pdb

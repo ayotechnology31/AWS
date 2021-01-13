@@ -1,0 +1,8 @@
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\GolfClubManager.Models\bin\Debug\netstandard2.0\GolfClubManager.Models.deps.json
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\GolfClubManager.Models\bin\Debug\netstandard2.0\GolfClubManager.Models.dll
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\GolfClubManager.Models\bin\Debug\netstandard2.0\GolfClubManager.Models.pdb
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\GolfClubManager.Models\obj\Debug\netstandard2.0\GolfClubManager.Models.AssemblyInfoInputs.cache
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\GolfClubManager.Models\obj\Debug\netstandard2.0\GolfClubManager.Models.AssemblyInfo.cs
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\GolfClubManager.Models\obj\Debug\netstandard2.0\GolfClubManager.Models.dll
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\GolfClubManager.Models\obj\Debug\netstandard2.0\GolfClubManager.Models.pdb
+C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\Milestone2-Assignment\NounManager\GolfClubManager\GolfClubManager.Models\obj\Debug\netstandard2.0\GolfClubManager.Models.csprojAssemblyReference.cache

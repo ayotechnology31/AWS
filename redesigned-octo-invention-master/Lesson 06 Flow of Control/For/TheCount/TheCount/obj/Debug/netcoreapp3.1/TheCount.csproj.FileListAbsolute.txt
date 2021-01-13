@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\bin\Debug\netcoreapp3.1\TheCount.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\bin\Debug\netcoreapp3.1\TheCount.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\bin\Debug\netcoreapp3.1\TheCount.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\bin\Debug\netcoreapp3.1\TheCount.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\bin\Debug\netcoreapp3.1\TheCount.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\bin\Debug\netcoreapp3.1\TheCount.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\obj\Debug\netcoreapp3.1\TheCount.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\obj\Debug\netcoreapp3.1\TheCount.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\obj\Debug\netcoreapp3.1\TheCount.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\obj\Debug\netcoreapp3.1\TheCount.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TheCount\TheCount\obj\Debug\netcoreapp3.1\TheCount.pdb

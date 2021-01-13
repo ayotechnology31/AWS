@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\bin\Debug\netcoreapp3.1\AllTheTrivia.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\bin\Debug\netcoreapp3.1\AllTheTrivia.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\bin\Debug\netcoreapp3.1\AllTheTrivia.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\bin\Debug\netcoreapp3.1\AllTheTrivia.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\bin\Debug\netcoreapp3.1\AllTheTrivia.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\bin\Debug\netcoreapp3.1\AllTheTrivia.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\obj\Debug\netcoreapp3.1\AllTheTrivia.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\obj\Debug\netcoreapp3.1\AllTheTrivia.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\obj\Debug\netcoreapp3.1\AllTheTrivia.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\obj\Debug\netcoreapp3.1\AllTheTrivia.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\AllTheTrivia\AllTheTrivia\obj\Debug\netcoreapp3.1\AllTheTrivia.pdb

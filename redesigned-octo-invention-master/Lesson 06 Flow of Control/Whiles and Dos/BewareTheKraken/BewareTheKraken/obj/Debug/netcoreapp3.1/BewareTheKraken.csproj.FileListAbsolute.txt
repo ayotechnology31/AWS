@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\bin\Debug\netcoreapp3.1\BewareTheKraken.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\bin\Debug\netcoreapp3.1\BewareTheKraken.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\bin\Debug\netcoreapp3.1\BewareTheKraken.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\bin\Debug\netcoreapp3.1\BewareTheKraken.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\bin\Debug\netcoreapp3.1\BewareTheKraken.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\bin\Debug\netcoreapp3.1\BewareTheKraken.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\obj\Debug\netcoreapp3.1\BewareTheKraken.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\obj\Debug\netcoreapp3.1\BewareTheKraken.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\obj\Debug\netcoreapp3.1\BewareTheKraken.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\obj\Debug\netcoreapp3.1\BewareTheKraken.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\BewareTheKraken\BewareTheKraken\obj\Debug\netcoreapp3.1\BewareTheKraken.csprojAssemblyReference.cache

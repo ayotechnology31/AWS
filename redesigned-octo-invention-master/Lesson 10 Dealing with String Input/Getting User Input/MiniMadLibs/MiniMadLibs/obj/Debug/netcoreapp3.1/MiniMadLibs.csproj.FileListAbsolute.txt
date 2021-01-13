@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.pdb

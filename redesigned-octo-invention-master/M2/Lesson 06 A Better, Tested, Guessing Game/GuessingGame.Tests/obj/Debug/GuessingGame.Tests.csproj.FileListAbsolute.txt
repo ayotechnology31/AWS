@@ -1,0 +1,9 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\bin\Debug\GuessingGame.Tests.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\bin\Debug\GuessingGame.Tests.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\bin\Debug\GuessingGame.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\bin\Debug\nunit.framework.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\bin\Debug\GuessingGame.BLL.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\bin\Debug\nunit.framework.xml
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\bin\Debug\netcoreapp3.1\BiggerBetterAdder.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\bin\Debug\netcoreapp3.1\BiggerBetterAdder.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\bin\Debug\netcoreapp3.1\BiggerBetterAdder.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\bin\Debug\netcoreapp3.1\BiggerBetterAdder.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\bin\Debug\netcoreapp3.1\BiggerBetterAdder.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\bin\Debug\netcoreapp3.1\BiggerBetterAdder.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\obj\Debug\netcoreapp3.1\BiggerBetterAdder.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\obj\Debug\netcoreapp3.1\BiggerBetterAdder.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\obj\Debug\netcoreapp3.1\BiggerBetterAdder.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\obj\Debug\netcoreapp3.1\BiggerBetterAdder.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\BiggerBetterAdder\BiggerBetterAdder\obj\Debug\netcoreapp3.1\BiggerBetterAdder.pdb

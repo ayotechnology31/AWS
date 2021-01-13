@@ -1,0 +1,60 @@
+https://lms.thesoftwareguild.com/courses/330/pages/lesson-02-introduction-to-classes?module_item_id=48205
+
+Milestone 2
+Lesson 02: Introduction to Classes
+Defining Classes, Instantiating Objects
+
+Object blueprint is Class keyword
+
+Build a class represented by Person
+class Person 
+{
+}
+class is keyword
+Person is identifier
+Code block associate with class
+
+"new" operator to turn class into C# object. When this is done, we are
+instantiate the new person object.
+Instantiating is the OOP equivalent of building a the house
+Person joe = new Person();
+
+We have a class definition but nothing is happening in the code block.
+
+Class members. We need to give something to describe person.
+Fields and methods are class members.
+Fields: Variables that hold data related to what is being modeled by the class.
+class Person
+{
+ string name;
+}
+
+Methods: Named block of code that can be called (or invoked)
+by name anywhere in a program
+class Person
+{
+	 string name;
+	 
+	 void IntroduceMyself()
+	 {
+		Console.WriteLine($"HI, I'm {name}");
+	 }
+}
+
+Access modifiers: allow us to control 
+how fields and methods on an object canbe used by other code
+For now, look at Public and Private
+Public: ll other code can see, set, or call the associated members
+Private: No code outside of the class can see, set or call the members
+The default is private.
+
+Let's add public
+class Person
+{
+	 public string name;
+	 
+	 public void IntroduceMyself()
+	 {
+		Console.WriteLine($"HI, I'm {name}");
+	 }
+}

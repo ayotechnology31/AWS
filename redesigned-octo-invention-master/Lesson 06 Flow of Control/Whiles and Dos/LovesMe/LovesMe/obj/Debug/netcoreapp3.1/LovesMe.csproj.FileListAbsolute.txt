@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.pdb

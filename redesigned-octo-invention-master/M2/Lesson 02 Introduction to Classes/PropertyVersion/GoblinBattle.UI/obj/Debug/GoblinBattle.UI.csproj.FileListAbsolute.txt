@@ -1,0 +1,12 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle\GoblinBattle.UI\bin\Debug\GoblinBattle.UI.exe.config
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle\GoblinBattle.UI\bin\Debug\GoblinBattle.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle\GoblinBattle.UI\bin\Debug\GoblinBattle.UI.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle\GoblinBattle.UI\obj\Debug\GoblinBattle.UI.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle\GoblinBattle.UI\obj\Debug\GoblinBattle.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle\GoblinBattle.UI\obj\Debug\GoblinBattle.UI.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle2\GoblinBattle.UI\bin\Debug\GoblinBattle.UI.exe.config
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle2\GoblinBattle.UI\obj\Debug\GoblinBattle.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle2\GoblinBattle.UI\obj\Debug\GoblinBattle.UI.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle2\GoblinBattle.UI\bin\Debug\GoblinBattle.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle2\GoblinBattle.UI\bin\Debug\GoblinBattle.UI.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GoblinBattle2\GoblinBattle.UI\obj\Debug\GoblinBattle.UI.csprojResolveAssemblyReference.cache

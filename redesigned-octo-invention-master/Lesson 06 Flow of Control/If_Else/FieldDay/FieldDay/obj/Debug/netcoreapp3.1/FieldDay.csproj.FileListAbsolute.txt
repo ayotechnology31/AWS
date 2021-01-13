@@ -1,0 +1,22 @@
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.exe
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.deps.json
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.runtimeconfig.json
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.runtimeconfig.dev.json
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.dll
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.pdb
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.csprojAssemblyReference.cache
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.dll
+C:\Users\Cookie\source\repos\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\bin\Debug\netcoreapp3.1\FieldDay.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\If_Else\FieldDay\FieldDay\obj\Debug\netcoreapp3.1\FieldDay.pdb

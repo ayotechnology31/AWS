@@ -1,0 +1,11 @@
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\obj\Debug\netcoreapp3.1\MiniZork.csprojAssemblyReference.cache
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\obj\Debug\netcoreapp3.1\MiniZork.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\obj\Debug\netcoreapp3.1\MiniZork.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\bin\Debug\netcoreapp3.1\MiniZork.exe
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\bin\Debug\netcoreapp3.1\MiniZork.deps.json
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\bin\Debug\netcoreapp3.1\MiniZork.runtimeconfig.json
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\bin\Debug\netcoreapp3.1\MiniZork.runtimeconfig.dev.json
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\bin\Debug\netcoreapp3.1\MiniZork.dll
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\bin\Debug\netcoreapp3.1\MiniZork.pdb
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\obj\Debug\netcoreapp3.1\MiniZork.dll
+C:\Users\Cookie\source\repos\MiniZork\MiniZork\obj\Debug\netcoreapp3.1\MiniZork.pdb

@@ -1,0 +1,7 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Factorizor\Start\Factorizor\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\Factorizor\bin\Debug\Factorizor.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\Factorizor\bin\Debug\Factorizor.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\Factorizor\obj\Debug\Factorizor.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Exercises\Factorizor\obj\Debug\Factorizor.csprojAssemblyReference.cache

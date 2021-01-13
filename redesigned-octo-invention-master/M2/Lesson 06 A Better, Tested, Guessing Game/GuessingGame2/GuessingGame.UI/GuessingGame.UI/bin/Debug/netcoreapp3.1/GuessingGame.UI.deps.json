@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GuessingGame.UI/1.0.0": {
+        "dependencies": {
+          "GuessingGame.BLL": "1.0.0"
+        },
+        "runtime": {
+          "GuessingGame.UI.dll": {}
+        }
+      },
+      "GuessingGame.BLL/1.0.0": {
+        "runtime": {
+          "GuessingGame.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuessingGame.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuessingGame.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

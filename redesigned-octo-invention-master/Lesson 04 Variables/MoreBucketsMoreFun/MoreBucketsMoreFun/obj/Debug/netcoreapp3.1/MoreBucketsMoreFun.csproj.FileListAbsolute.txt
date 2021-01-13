@@ -1,0 +1,10 @@
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.exe
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.deps.json
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.runtimeconfig.json
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.runtimeconfig.dev.json
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.dll
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.pdb
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.dll
+C:\Users\Cookie\source\repos\MoreBucketsMoreFun\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.pdb

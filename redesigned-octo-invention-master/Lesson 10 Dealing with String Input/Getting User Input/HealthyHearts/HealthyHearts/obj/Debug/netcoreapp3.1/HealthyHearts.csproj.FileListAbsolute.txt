@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 10 Dealing with String Input\Getting User Input\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.csprojAssemblyReference.cache

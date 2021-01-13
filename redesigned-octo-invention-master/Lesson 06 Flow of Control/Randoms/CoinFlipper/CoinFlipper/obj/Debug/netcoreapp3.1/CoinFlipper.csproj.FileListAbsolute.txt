@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp3.1\CoinFlipper.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp3.1\CoinFlipper.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp3.1\CoinFlipper.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp3.1\CoinFlipper.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp3.1\CoinFlipper.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp3.1\CoinFlipper.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp3.1\CoinFlipper.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp3.1\CoinFlipper.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp3.1\CoinFlipper.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp3.1\CoinFlipper.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp3.1\CoinFlipper.pdb

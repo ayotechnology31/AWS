@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Randoms\FortuneCookie\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.csprojAssemblyReference.cache

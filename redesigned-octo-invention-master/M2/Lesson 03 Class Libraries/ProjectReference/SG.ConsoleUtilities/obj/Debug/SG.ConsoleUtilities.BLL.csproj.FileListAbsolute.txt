@@ -1,0 +1,5 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities\SG.ConsoleUtilities\bin\Debug\SG.ConsoleUtilities.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities\SG.ConsoleUtilities\bin\Debug\SG.ConsoleUtilities.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities\SG.ConsoleUtilities\obj\Debug\SG.ConsoleUtilities.BLL.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities\SG.ConsoleUtilities\obj\Debug\SG.ConsoleUtilities.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities\SG.ConsoleUtilities\obj\Debug\SG.ConsoleUtilities.pdb

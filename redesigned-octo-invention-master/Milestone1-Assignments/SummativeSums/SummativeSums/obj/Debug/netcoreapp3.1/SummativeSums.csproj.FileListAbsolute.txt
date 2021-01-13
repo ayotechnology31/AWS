@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Milestone1-Assignments\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.pdb

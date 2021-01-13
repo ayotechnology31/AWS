@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\Whiles and Dos\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.pdb

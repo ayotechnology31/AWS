@@ -1,0 +1,11 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\bin\Debug\SG.ConsoleUtilities.UI.exe.config
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\bin\Debug\SG.ConsoleUtilities.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\bin\Debug\SG.ConsoleUtilities.UI.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\bin\Debug\EntityFramework.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\bin\Debug\SCG.ConsoleUtilities.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\bin\Debug\EntityFramework.xml
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\obj\Debug\SG.ConsoleUtilities.UI.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\obj\Debug\SG.ConsoleUtilities.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\SG.ConsoleUtilities-DLL\SG.ConsoleUtilities.UI\obj\Debug\SG.ConsoleUtilities.UI.pdb

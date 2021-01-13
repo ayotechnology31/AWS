@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 06 Flow of Control\For\TraditionalFizzBuzz\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\bin\Debug\netcoreapp3.1\StringMemberExamples.exe
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\bin\Debug\netcoreapp3.1\StringMemberExamples.deps.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\bin\Debug\netcoreapp3.1\StringMemberExamples.runtimeconfig.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\bin\Debug\netcoreapp3.1\StringMemberExamples.runtimeconfig.dev.json
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\bin\Debug\netcoreapp3.1\StringMemberExamples.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\bin\Debug\netcoreapp3.1\StringMemberExamples.pdb
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\obj\Debug\netcoreapp3.1\StringMemberExamples.csprojAssemblyReference.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\obj\Debug\netcoreapp3.1\StringMemberExamples.AssemblyInfoInputs.cache
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\obj\Debug\netcoreapp3.1\StringMemberExamples.AssemblyInfo.cs
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\obj\Debug\netcoreapp3.1\StringMemberExamples.dll
+C:\Users\Cookie\Documents\repos\redesigned-octo-invention\Lesson 12 String Types and String Members\StringMemberExamples\StringMemberExamples\obj\Debug\netcoreapp3.1\StringMemberExamples.pdb
