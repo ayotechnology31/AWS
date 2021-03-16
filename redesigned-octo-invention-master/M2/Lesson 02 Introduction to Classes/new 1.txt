@@ -1,3 +1,0 @@
-Milestone 2
-Lesson 02: Introduction to Classes
-Encapsulation

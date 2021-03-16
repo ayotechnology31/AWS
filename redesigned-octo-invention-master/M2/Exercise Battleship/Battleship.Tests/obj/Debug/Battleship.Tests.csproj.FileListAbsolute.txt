@@ -1,9 +1,0 @@
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\Battleship.Tests.dll
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\Battleship.Tests.pdb
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\BattleShip.BLL.dll
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\nunit.framework.dll
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\BattleShip.BLL.pdb
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\nunit.framework.xml
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.csprojResolveAssemblyReference.cache
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.dll
-D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.pdb

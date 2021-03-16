@@ -1,5 +1,0 @@
-C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\M2\Lesson 09 RPG Inventory\RPGInventory_SG\RPG.Inventory\bin\Debug\RPG.Inventory.dll
-C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\M2\Lesson 09 RPG Inventory\RPGInventory_SG\RPG.Inventory\bin\Debug\RPG.Inventory.pdb
-C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\M2\Lesson 09 RPG Inventory\RPGInventory_SG\RPG.Inventory\obj\Debug\RPG.Inventory.csprojAssemblyReference.cache
-C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\M2\Lesson 09 RPG Inventory\RPGInventory_SG\RPG.Inventory\obj\Debug\RPG.Inventory.dll
-C:\Users\Cookie\OneDrive\Documents\repos\redesigned-octo-invention\M2\Lesson 09 RPG Inventory\RPGInventory_SG\RPG.Inventory\obj\Debug\RPG.Inventory.pdb

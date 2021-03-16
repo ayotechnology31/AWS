@@ -1,5 +1,0 @@
-C:\Users\Cookie\Documents\repos\redesigned-octo-invention\M2\Exercise A Better, Tested, Factorizor\Factorizor.Tests\bin\Debug\netstandard2.0\Factorizor.Tests.deps.json
-C:\Users\Cookie\Documents\repos\redesigned-octo-invention\M2\Exercise A Better, Tested, Factorizor\Factorizor.Tests\bin\Debug\netstandard2.0\Factorizor.Tests.dll
-C:\Users\Cookie\Documents\repos\redesigned-octo-invention\M2\Exercise A Better, Tested, Factorizor\Factorizor.Tests\obj\Debug\netstandard2.0\Factorizor.Tests.csprojAssemblyReference.cache
-C:\Users\Cookie\Documents\repos\redesigned-octo-invention\M2\Exercise A Better, Tested, Factorizor\Factorizor.Tests\obj\Debug\netstandard2.0\Factorizor.Tests.AssemblyInfoInputs.cache
-C:\Users\Cookie\Documents\repos\redesigned-octo-invention\M2\Exercise A Better, Tested, Factorizor\Factorizor.Tests\obj\Debug\netstandard2.0\Factorizor.Tests.AssemblyInfo.cs
